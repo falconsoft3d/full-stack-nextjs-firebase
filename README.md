@@ -1,3 +1,4 @@
+# fsnextjsfb
 # Full Stack Nextjs Firebase with PartCombinators
 Code summary to facilitate the development of applications using NextJS and Firebase
 
