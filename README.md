@@ -2,6 +2,9 @@
 Code summary to facilitate the development of applications using NextJS and Firebase
 
 1- Login.
+- html
+- bootstrap
+- taildwind
 
 2- Login and Register.
 
