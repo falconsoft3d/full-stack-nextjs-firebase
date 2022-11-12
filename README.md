@@ -1,4 +1,5 @@
 # Full Stack Nextjs Firebase
+Code summary to facilitate the development of applications using NextJS and Firebase
 
 1- Login.
 
