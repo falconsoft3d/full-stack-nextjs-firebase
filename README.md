@@ -9,6 +9,7 @@ Code summary to facilitate the development of applications using NextJS and Fire
 - html
 - bootstrap
 - taildwind
+- styled-components
 
 3- Login and Register.
 
