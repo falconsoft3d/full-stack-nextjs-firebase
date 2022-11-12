@@ -12,3 +12,5 @@ Code summary to facilitate the development of applications using NextJS and Fire
 6- Payments
 
 7- Redux
+
+8- Dockers
