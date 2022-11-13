@@ -7,7 +7,7 @@ Code summary to facilitate the development of applications using NextJS and Fire
 
 2- Login.
 - html - https://github.com/partcombinator/fsnextjsfb_login_html (context, formik, yup, react-toastify)
-- bootstrap
+- bootstrap - https://github.com/partcombinator/fsnextjsfb_login_bootstrap ( Bootstrap )
 - taildwind
 - styled-components
 
