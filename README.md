@@ -5,25 +5,23 @@ Code summary to facilitate the development of applications using NextJS and Fire
 1- base.
 - fsnextjsfb_base - https://github.com/partcombinator/fsnextjsfb_base (Docker)
 
-2- Login.
+2- Login and Reister
 - html - https://github.com/partcombinator/fsnextjsfb_login_html (context, formik, yup, react-toastify)
 - bootstrap - https://github.com/partcombinator/fsnextjsfb_login_bootstrap ( Bootstrap )
 - taildwind
 - styled-components
 
-3- Login and Register.
+3- Login, Register and Crud.
 
-4- Login, Register and Crud.
+4- Forms and Validations
 
-5- Forms and Validations
+5- Payments
 
-7- Payments
+6- Redux
 
-8- Redux
+7- Dockers
 
-9- Dockers
-
-10- Firebase Rulers
+8- Firebase Rulers
 ```
 rules_version = '2';
 service cloud.firestore {
