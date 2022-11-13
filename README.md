@@ -23,6 +23,18 @@ Code summary to facilitate the development of applications using NextJS and Fire
 
 9- Dockers
 
+10- Firebase Rulers
+```
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+       allow read, write: if request.auth != null;
+    }
+  }
+}
+```
+
 # My Contact Info
 Marlon Falcón Hernández | Valencia | Spain
 ```
