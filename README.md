@@ -6,7 +6,7 @@ Code summary to facilitate the development of applications using NextJS and Fire
 - fsnextjsfb_base - https://github.com/partcombinator/fsnextjsfb_base (Docker)
 
 2- Login.
-- html
+- html - https://github.com/partcombinator/fsnextjsfb_login_html
 - bootstrap
 - taildwind
 - styled-components
