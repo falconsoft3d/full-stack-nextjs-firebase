@@ -8,7 +8,7 @@ Code summary to facilitate the development of applications using NextJS and Fire
 2- Login and Register
 - html - https://github.com/partcombinator/fsnextjsfb_login_html (context, formik, yup, react-toastify)
 - bootstrap - https://github.com/partcombinator/fsnextjsfb_login_bootstrap ( Bootstrap )
-- taildwind
+- taildwind - https://github.com/partcombinator/fsnextjsfb_login_taildwind ( TaildwindCSS )
 - styled-components
 
 3- Login, Register and Crud.
