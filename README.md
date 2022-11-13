@@ -5,7 +5,7 @@ Code summary to facilitate the development of applications using NextJS and Fire
 1- base.
 - fsnextjsfb_base - https://github.com/partcombinator/fsnextjsfb_base (Docker)
 
-2- Login and Reister
+2- Login and Register
 - html - https://github.com/partcombinator/fsnextjsfb_login_html (context, formik, yup, react-toastify)
 - bootstrap - https://github.com/partcombinator/fsnextjsfb_login_bootstrap ( Bootstrap )
 - taildwind
